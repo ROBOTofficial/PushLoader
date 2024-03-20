@@ -1,0 +1,12 @@
+[package]
+name = "loader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = {version = "1", features = ["full"]}
+actix-web = "4"
+
+[[bin]]
+name = "loader"
+path = "main.rs"

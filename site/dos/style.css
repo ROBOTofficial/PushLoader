@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    text-align: center;
+    display: block;
+    background-color: black;
+}
+.main-webp {
+    width: 25%;
+}
+.text {
+    color: green;
+}
